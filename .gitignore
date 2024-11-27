@@ -1,3 +1,8 @@
+# tools
+.idea/
+.vscode/
+.history/
+
 # macOS
 .DS_Store
 .AppleDouble
@@ -10,8 +15,6 @@ Desktop.ini
 $RECYCLE.BIN/
 
 # VSCode
-.vscode/
-.history/
 
 # Log
 *.log
